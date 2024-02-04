@@ -34,7 +34,7 @@ def hello_world():
         </head>
         <body>
             <div class="container">
-                <h1>Hello MSOE Enhanced</h1>
+                <h1>Hello MSOE!!</h1>
             </div>
         </body>
     </html>
